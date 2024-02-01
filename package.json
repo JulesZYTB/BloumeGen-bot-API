@@ -1,0 +1,19 @@
+{
+    "name": "bloumegen-bot-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "./index.js",
+    "bin": "./index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "node index.js"
+    },
+    "author": "BloumeGen et .^JulesZ^.",
+    "license": "ISC",
+    "dependencies": {
+        "@discordjs/rest": "^2.2.0",
+        "axios": "^1.6.7",
+        "discord.js": "^13.1.0",
+        "fs": "^0.0.1-security"
+    }
+}

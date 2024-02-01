@@ -1,0 +1,13 @@
+{
+  "maintenance": "false",
+  "apikey": "BloumeGenAPI_apikey",
+  "bot": {
+    "token": "token de votre bot discord",
+    "guildid": "guild id ",
+    "clientid": "client id du bot"
+  },
+  "serveur": {
+    "vipid": "vip id role",
+    "adminid": "admin id role"
+  }
+} 

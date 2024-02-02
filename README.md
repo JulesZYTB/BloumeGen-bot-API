@@ -9,7 +9,7 @@
 <p align="center">
     <br/><br/>
     <a href="https://discord.gg/bloumegen" target="_blank">
-        <img src="[https://api.bloume-gen.tk/assets/img/bloume.png](https://img.shields.io/discord/1137011826593378376.svg?logo=discord&colorB=7289DA)" alt="Discord" />
+        <img src="https://img.shields.io/discord/1137011826593378376.svg?logo=discord&colorB=7289DA" alt="Discord" />
     </a>
 </p>
 

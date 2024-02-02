@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://share.creavite.co/MBqK7PfYzbvFvpHN.gif" width="300">
+  <img src="https://api.bloume-gen.tk/assets/img/bloume.png" width="300">
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 <p align="center">
     <br/><br/>
     <a href="https://discord.gg/bloumegen" target="_blank">
-        <img src="https://api.bloume-gen.tk/assets/img/bloume.png" alt="Discord" />
+        <img src="[https://api.bloume-gen.tk/assets/img/bloume.png](https://img.shields.io/discord/1137011826593378376.svg?logo=discord&colorB=7289DA)" alt="Discord" />
     </a>
 </p>
 

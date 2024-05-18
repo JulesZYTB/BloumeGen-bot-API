@@ -9,7 +9,7 @@
 <p align="center">
     <br/><br/>
     <a href="https://discord.gg/bloumegen" target="_blank">
-        <img src="https://img.shields.io/discord/1137011826593378376.svg?logo=discord&colorB=7289DA" alt="Discord" />
+        <img src="https://img.shields.io/discord/1107692347657035819.svg?logo=discord&colorB=7289DA" alt="Discord" />
     </a>
 </p>
 
@@ -31,6 +31,7 @@ Offres BloumeGen Bot API:
 *   🇫🇷  Pas de temps d'attente
 *   ⚙️ Les comptes générés son fourni par nous
 +   🛰️ Une interface a coupé le souffle
++   🌟 Généré des cadeaux VIP BloumeGen en illimité avec GeneratorVIP.js
 
 ### Commandes
 

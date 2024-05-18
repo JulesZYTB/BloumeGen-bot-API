@@ -13,7 +13,7 @@
     </a>
 </p>
 
-[![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
+[![](https://img.shields.io/badge/discord.js-v13.1.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://paypal.me/BloumeGen)
 
 BloumeGen Bot API est un bot Discord de génération de compte open source codé en JavaScript avec [Discord.js](https://discord.js.org) par [JulesZ](https://github.com/JulesZYTB).  
